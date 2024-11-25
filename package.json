@@ -1,11 +1,11 @@
 {
-  "name": "long",
-  "version": "0.0.0",
+  "name": "@tentkeep/long",
+  "version": "0.0.1",
   "author": "Daniel Wirtz <dcode@dcode.io>",
   "description": "A Long class for representing a 64-bit two's-complement integer value.",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/dcodeIO/long.js.git"
+  "repository": "https://github.com/tentkeep/long.git",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   },
   "bugs": {
     "url": "https://github.com/dcodeIO/long.js/issues"
